@@ -1,0 +1,6 @@
+services:
+  closedqa-ja-dataset:
+    build: .
+    container_name: closedqa-ja-dataset-docker
+    volumes:
+      - .:/app/closedqa-ja-dataset

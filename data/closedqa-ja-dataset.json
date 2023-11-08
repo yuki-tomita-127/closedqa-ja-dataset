@@ -1,10 +1,11 @@
 [
     {
         "index": "0",
-        "instruction": "",
-        "input": "",
-        "output": "",
-        "url": "",
-        "category": "closed_qa"
+        "instruction": "婚約数とはどんな数字の組み合わせ？",
+        "input": "婚約数（こんやくすう、英: betrothed numbers）とは、異なる 2 つの自然数の組で、1 と自分自身を除いた約数の和が互いに他方と等しくなるような数をいう。準友愛数（じゅんゆうあいすう、quasi-amicable numbers）とも呼ばれる。\n\n最小の婚約数の組は (48, 75) である。\n\n48 の 1 と自分自身を除いた約数は、2, 3, 4, 6, 8, 12, 16, 24 で、和は 75 となる。一方、75 の 1 と自分自身を除いた約数は、3, 5, 15, 25 で、和は 48 である。\n現在まで知られる婚約数の組はすべて偶数と奇数の組である。",
+        "output": "1と自分自身を除いた約数の和が互いに他方と等しくなるような、異なる2つの自然数の組み合わせ<|particles|>例えば(48, 75)など<|particles|>",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A9%9A%E7%B4%84%E6%95%B0",
+        "category": "closed_qa",
+        "sub_category": "mathmatics"
     }
 ]

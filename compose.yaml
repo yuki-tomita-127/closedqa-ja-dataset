@@ -4,3 +4,5 @@ services:
     container_name: closedqa-ja-dataset-docker
     volumes:
       - .:/app/closedqa-ja-dataset
+    tty: true
+    stdin_open: true

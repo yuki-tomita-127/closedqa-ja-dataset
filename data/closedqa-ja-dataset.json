@@ -7,5 +7,23 @@
         "url": "https://ja.wikipedia.org/wiki/%E5%A9%9A%E7%B4%84%E6%95%B0",
         "category": "closed_qa",
         "sub_category": "mathmatics"
+    },
+    {
+        "index": "1",
+        "instruction": "ピグマリオン効果って何だっけ",
+        "input": "ピグマリオン効果（ピグマリオンこうか、英: pygmalion effect）とは、教育心理学における心理的行動の1つで、教師の期待によって学習者の成績が向上することである。別名、教師期待効果（きょうしきたいこうか）、ローゼンタール効果（ローゼンタールこうか）などとも呼ばれている。なお批判者は心理学用語でのバイアスである実験者効果（じっけんしゃこうか）の一種とする。ちなみに、教師が期待しないことによって学習者の成績が下がることはゴーレム効果と呼ばれる。",
+        "output": "ピグマリオン効果とは教師の期待によって学習者の成績が向上すること<|particles|>",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%B9%E6%9E%9C",
+        "category": "closed_qa",
+        "sub_category": "psychology"
+    },
+    {
+        "index": "2",
+        "instruction": "SSH接続とかのSSHって何の略なんですか？",
+        "input": "Secure Shell（セキュア シェル、SSH）は、暗号や認証技術を利用して、安全にリモートコンピュータと通信するためのプロトコル。パスワードなどの認証を含むすべてのネットワーク上の通信が暗号化される。",
+        "output": "SSHという略称はSecure Shellからきている<|particles|>",
+        "url": "https://ja.wikipedia.org/wiki/Secure_Shell",
+        "category": "closed_qa",
+        "sub_category": "technology"
     }
 ]

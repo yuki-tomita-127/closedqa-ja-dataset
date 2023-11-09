@@ -3,7 +3,7 @@
         "index": "0",
         "instruction": "婚約数とはどんな数字の組み合わせ？",
         "input": "婚約数（こんやくすう、英: betrothed numbers）とは、異なる 2 つの自然数の組で、1 と自分自身を除いた約数の和が互いに他方と等しくなるような数をいう。準友愛数（じゅんゆうあいすう、quasi-amicable numbers）とも呼ばれる。\n\n最小の婚約数の組は (48, 75) である。\n\n48 の 1 と自分自身を除いた約数は、2, 3, 4, 6, 8, 12, 16, 24 で、和は 75 となる。一方、75 の 1 と自分自身を除いた約数は、3, 5, 15, 25 で、和は 48 である。\n現在まで知られる婚約数の組はすべて偶数と奇数の組である。",
-        "output": "1と自分自身を除いた約数の和が互いに他方と等しくなるような、異なる2つの自然数の組み合わせ<|particles|>例えば(48, 75)など<|particles|>",
+        "output": "1と自分自身を除いた約数の和が互いに他方と等しくなるような、異なる2つの自然数の組み合わせ<|EOW|>例えば(48, 75)など<|EOW|>",
         "url": "https://ja.wikipedia.org/wiki/%E5%A9%9A%E7%B4%84%E6%95%B0",
         "category": "closed_qa",
         "sub_category": "mathmatics"
@@ -12,7 +12,7 @@
         "index": "1",
         "instruction": "ピグマリオン効果って何だっけ",
         "input": "ピグマリオン効果（ピグマリオンこうか、英: pygmalion effect）とは、教育心理学における心理的行動の1つで、教師の期待によって学習者の成績が向上することである。別名、教師期待効果（きょうしきたいこうか）、ローゼンタール効果（ローゼンタールこうか）などとも呼ばれている。なお批判者は心理学用語でのバイアスである実験者効果（じっけんしゃこうか）の一種とする。ちなみに、教師が期待しないことによって学習者の成績が下がることはゴーレム効果と呼ばれる。",
-        "output": "ピグマリオン効果とは教師の期待によって学習者の成績が向上すること<|particles|>",
+        "output": "ピグマリオン効果とは教師の期待によって学習者の成績が向上すること<|EOW|>",
         "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%B9%E6%9E%9C",
         "category": "closed_qa",
         "sub_category": "psychology"
@@ -21,7 +21,7 @@
         "index": "2",
         "instruction": "SSH接続とかのSSHって何の略なんですか？",
         "input": "Secure Shell（セキュア シェル、SSH）は、暗号や認証技術を利用して、安全にリモートコンピュータと通信するためのプロトコル。パスワードなどの認証を含むすべてのネットワーク上の通信が暗号化される。",
-        "output": "SSHという略称はSecure Shellからきている<|particles|>",
+        "output": "SSHという略称はSecure Shellからきている<|EOW|>",
         "url": "https://ja.wikipedia.org/wiki/Secure_Shell",
         "category": "closed_qa",
         "sub_category": "technology"

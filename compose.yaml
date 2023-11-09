@@ -5,6 +5,6 @@ services:
     volumes:
       - .:/app/closedqa-ja-dataset
     ports:
-      - "7860:7860"
+      - "48522:7860"
     tty: true
     stdin_open: true

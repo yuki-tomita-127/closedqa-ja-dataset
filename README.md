@@ -3,7 +3,7 @@
 趣味でClosedQAの日本語データセットを作成しています。  
 目標データ数は**2000個**です。  
 
-基本的には[databricks/databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)の`Closed QA`形式にならい、WikipediaのURLやサブカテゴリのフィールドを追加しています。
+基本的には[databricks/databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k){:target="_blank"}の`Closed QA`形式にならい、WikipediaのURLやサブカテゴリのフィールドを追加しています。
 
 万が一、内容に誤りがありましたらご指摘いただけますと助かります。
 
